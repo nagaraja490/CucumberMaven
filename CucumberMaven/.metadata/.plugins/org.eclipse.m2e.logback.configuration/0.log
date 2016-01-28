@@ -1,0 +1,165 @@
+2016-01-14 08:59:23,265 [Worker-1] ERROR o.e.m.c.i.p.ProjectConfigurationManager - Project org.testng.eclipse already exists
+2016-01-14 08:59:23,646 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/eclipse/egit/egit-parent/2.2.0.201212191850-r/egit-parent-2.2.0.201212191850-r.pom
+2016-01-14 08:59:23,879 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/eclipse/jgit/jgit.tycho.parent/2.2.0.201212191850-r/jgit.tycho.parent-2.2.0.201212191850-r.pom
+2016-01-14 08:59:24,333 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: cucumber:cucumber-java-template:0.0.1 @ /Users/nnaick001c/Documents/workspace/cucumber-jvm-template-master/pom.xml.
+2016-01-14 08:59:24,573 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact xml-apis:xml-apis:jar:2.0.2 has been relocated to xml-apis:xml-apis:jar:1.0.b2
+2016-01-14 08:59:24,627 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ExcelMaven:ExcelMaven:0.0.1-SNAPSHOT @ /Users/nnaick001c/Documents/workspace/ExcelMaven/pom.xml.
+2016-01-14 08:59:24,635 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-remote-resources-plugin/1.1/maven-remote-resources-plugin-1.1.pom
+2016-01-14 08:59:24,641 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.apache.tomcat:jdbc-pool:1.2-SNAPSHOT @ /Users/nnaick001c/Documents/workspace/localtomcat/apache-tomcat-7.0.57-src/modules/jdbc-pool/pom.xml.
+2016-01-14 08:59:24,643 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/tomcat/juli/6.0.32/juli-6.0.32.pom
+2016-01-14 08:59:24,647 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/tomcat/dbcp/6.0.32/dbcp-6.0.32.pom
+2016-01-14 08:59:24,649 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/h2database/h2/1.3.152/h2-1.3.152.pom
+2016-01-14 08:59:24,670 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.mavenlearning.com:MavenCucumber:0.0.1-SNAPSHOT @ /Users/nnaick001c/Documents/workspace/MavenCucumberReport/MavenCucumber/pom.xml.
+2016-01-14 08:59:24,906 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: MavenReportProject:MavenReportProject:0.0.1-SNAPSHOT @ /Users/nnaick001c/Documents/workspace/MavenReportProject/pom.xml.
+2016-01-14 08:59:25,127 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: MaveTest:MavenTest:0.0.1-SNAPSHOT @ /Users/nnaick001c/Documents/workspace/MavenTest/pom.xml.
+2016-01-14 08:59:25,140 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: TestMaven:TestMaven:0.0.1-SNAPSHOT @ /Users/nnaick001c/Documents/workspace/TestMaven/pom.xml.
+2016-01-14 08:59:25,308 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Cucumber_Maven_selenium:Cucumber_selenium:0.0.1-SNAPSHOT @ /Users/nnaick001c/Documents/workspace/workspaceP/Cucumber_selenium/pom.xml.
+2016-01-14 08:59:25,335 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/info/cukes/cucumber-java/1.1.5/cucumber-java-1.1.5.pom
+2016-01-14 08:59:25,337 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/info/cukes/cucumber-junit/1.1.5/cucumber-junit-1.1.5.pom
+2016-01-14 08:59:25,340 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/junit/junit/4.10/junit-4.10.pom
+2016-01-14 08:59:25,351 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Slenium_Project:Selenium_Project:0.0.1-SNAPSHOT @ /Users/nnaick001c/Documents/workspace/workspaceP/Selenium_Project/pom.xml.
+2016-01-14 08:59:25,879 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: XfinitySearch:XfinitySearch:0.0.1-SNAPSHOT @ /Users/nnaick001c/Documents/workspace/workspaceP/XfinitySearch/pom.xml.
+2016-01-14 08:59:25,882 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-java/2.45.0/selenium-java-2.45.0.pom
+2016-01-14 08:59:25,884 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/testng/testng/6.8/testng-6.8.pom
+2016-01-14 08:59:25,898 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: XfinityTest:XfinityTest:0.0.1-SNAPSHOT @ /Users/nnaick001c/Documents/workspace/workspaceP/XfinityTest/pom.xml.
+2016-01-14 08:59:25,901 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/poi/poi/3.12/poi-3.12.pom
+2016-01-14 08:59:26,560 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /TestMaven/src/main/java
+2016-01-14 08:59:26,565 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /TestMaven/src/test/java
+2016-01-14 08:59:26,623 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /MavenTest/src/main/java
+2016-01-14 08:59:26,623 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /MavenTest/src/test/java
+2016-01-14 08:59:26,636 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ExcelMaven/src/main/java
+2016-01-14 08:59:26,636 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ExcelMaven/src/main/resources
+2016-01-14 08:59:26,637 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ExcelMaven/src/test/java
+2016-01-14 08:59:26,637 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ExcelMaven/src/test/resources
+2016-01-14 08:59:26,660 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /MavenReportProject/src/main/java
+2016-01-14 08:59:26,660 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /MavenReportProject/src/test/java
+2016-01-14 08:59:27,778 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: cucumber:cucumber-java-template:0.0.1 @ /Users/nnaick001c/Documents/workspace/cucumber-jvm-template-master/pom.xml.
+2016-01-14 08:59:27,794 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Cucumber_selenium/src/main/java
+2016-01-14 08:59:27,795 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Cucumber_selenium/src/main/resources
+2016-01-14 08:59:27,795 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Cucumber_selenium/src/test/java
+2016-01-14 08:59:27,795 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Cucumber_selenium/src/test/resources
+2016-01-14 08:59:27,810 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Selenium_Project/src/main/java
+2016-01-14 08:59:27,810 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Selenium_Project/src/main/resources
+2016-01-14 08:59:27,810 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Selenium_Project/src/test/java
+2016-01-14 08:59:27,810 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Selenium_Project/src/test/resources
+2016-01-14 08:59:27,863 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /XfinityTest/src/main/java
+2016-01-14 08:59:27,864 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /XfinityTest/src/main/resources
+2016-01-14 08:59:27,864 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /XfinityTest/src/test/java
+2016-01-14 08:59:27,864 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /XfinityTest/src/test/resources
+2016-01-14 08:59:27,868 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact xml-apis:xml-apis:jar:2.0.2 has been relocated to xml-apis:xml-apis:jar:1.0.b2
+2016-01-14 08:59:27,892 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /XfinitySearch/src/main/java
+2016-01-14 08:59:27,892 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /XfinitySearch/src/main/resources
+2016-01-14 08:59:27,893 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /XfinitySearch/src/test/java
+2016-01-14 08:59:27,893 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /XfinitySearch/src/test/resources
+2016-01-14 08:59:27,900 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ExcelMaven:ExcelMaven:0.0.1-SNAPSHOT @ /Users/nnaick001c/Documents/workspace/ExcelMaven/pom.xml.
+2016-01-14 08:59:27,917 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /cucumber-java-template/src/main/java
+2016-01-14 08:59:27,917 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /cucumber-java-template/src/test/java
+2016-01-14 08:59:27,917 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /cucumber-java-template/src/test/resources
+2016-01-14 08:59:27,918 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.mavenlearning.com:MavenCucumber:0.0.1-SNAPSHOT @ /Users/nnaick001c/Documents/workspace/MavenCucumberReport/MavenCucumber/pom.xml.
+2016-01-14 08:59:27,955 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /MavenCucumber/src/main/java
+2016-01-14 08:59:27,955 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /MavenCucumber/src/test/java
+2016-01-14 08:59:28,007 [Worker-1] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 48 project(s) in 5 sec
+2016-01-14 08:59:28,136 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: MavenReportProject:MavenReportProject:0.0.1-SNAPSHOT @ /Users/nnaick001c/Documents/workspace/MavenReportProject/pom.xml.
+2016-01-14 08:59:28,487 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: MaveTest:MavenTest:0.0.1-SNAPSHOT @ /Users/nnaick001c/Documents/workspace/MavenTest/pom.xml.
+2016-01-14 08:59:28,500 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: TestMaven:TestMaven:0.0.1-SNAPSHOT @ /Users/nnaick001c/Documents/workspace/TestMaven/pom.xml.
+2016-01-14 08:59:28,566 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Cucumber_Maven_selenium:Cucumber_selenium:0.0.1-SNAPSHOT @ /Users/nnaick001c/Documents/workspace/workspaceP/Cucumber_selenium/pom.xml.
+2016-01-14 08:59:28,585 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Slenium_Project:Selenium_Project:0.0.1-SNAPSHOT @ /Users/nnaick001c/Documents/workspace/workspaceP/Selenium_Project/pom.xml.
+2016-01-14 08:59:28,639 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: XfinitySearch:XfinitySearch:0.0.1-SNAPSHOT @ /Users/nnaick001c/Documents/workspace/workspaceP/XfinitySearch/pom.xml.
+2016-01-14 08:59:28,659 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: XfinityTest:XfinityTest:0.0.1-SNAPSHOT @ /Users/nnaick001c/Documents/workspace/workspaceP/XfinityTest/pom.xml.
+2016-01-14 08:59:28,766 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.apache.tomcat:jdbc-pool:1.2-SNAPSHOT @ /Users/nnaick001c/Documents/workspace/localtomcat/apache-tomcat-7.0.57-src/modules/jdbc-pool/pom.xml.
+2016-01-14 08:59:28,900 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-01-14 08:59:28,906 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-01-14 08:59:28,907 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-01-14 08:59:28,908 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-01-14 08:59:29,025 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-01-14 08:59:29,026 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-01-14 08:59:29,027 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-01-14 08:59:29,027 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-01-14 08:59:29,463 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-01-14 08:59:29,464 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nnaick001c/Documents/workspace/MavenCucumberReport/MavenCucumber/src/main/resources
+2016-01-14 08:59:29,465 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-01-14 08:59:29,465 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nnaick001c/Documents/workspace/MavenCucumberReport/MavenCucumber/src/test/resources
+2016-01-14 08:59:29,871 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-01-14 08:59:29,871 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nnaick001c/Documents/workspace/MavenReportProject/src/main/resources
+2016-01-14 08:59:29,872 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-01-14 08:59:29,872 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nnaick001c/Documents/workspace/MavenReportProject/src/test/resources
+2016-01-14 08:59:29,895 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-14 08:59:29,895 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nnaick001c/Documents/workspace/MavenTest/src/main/resources
+2016-01-14 08:59:29,895 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-14 08:59:29,896 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nnaick001c/Documents/workspace/MavenTest/src/test/resources
+2016-01-14 08:59:30,083 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-01-14 08:59:30,083 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-01-14 08:59:30,084 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-01-14 08:59:30,085 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-01-14 08:59:30,230 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-01-14 08:59:30,231 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nnaick001c/Documents/workspace/TestMaven/src/main/resources
+2016-01-14 08:59:30,232 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-01-14 08:59:30,233 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nnaick001c/Documents/workspace/TestMaven/src/test/resources
+2016-01-14 08:59:30,245 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: XfinitySearch:XfinitySearch:0.0.1-SNAPSHOT @ /Users/nnaick001c/Documents/workspace/workspaceP/XfinitySearch/pom.xml.
+2016-01-14 08:59:30,318 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact xml-apis:xml-apis:jar:2.0.2 has been relocated to xml-apis:xml-apis:jar:1.0.b2
+2016-01-14 08:59:30,351 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-01-14 08:59:30,352 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-01-14 08:59:30,353 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-01-14 08:59:30,354 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-01-14 08:59:30,368 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: XfinityTest:XfinityTest:0.0.1-SNAPSHOT @ /Users/nnaick001c/Documents/workspace/workspaceP/XfinityTest/pom.xml.
+2016-01-14 08:59:30,478 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-01-14 08:59:30,478 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-01-14 08:59:30,479 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-01-14 08:59:30,480 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2016-01-14 08:59:30,627 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-01-14 08:59:30,628 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nnaick001c/Documents/workspace/cucumber-jvm-template-master/src/main/resources
+2016-01-14 08:59:30,628 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-01-14 08:59:30,629 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-01-14 08:59:31,877 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: cucumber:cucumber-java-template:0.0.1 @ /Users/nnaick001c/Documents/workspace/cucumber-jvm-template-master/pom.xml.
+2016-01-14 08:59:31,994 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact xml-apis:xml-apis:jar:2.0.2 has been relocated to xml-apis:xml-apis:jar:1.0.b2
+2016-01-14 08:59:32,026 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ExcelMaven:ExcelMaven:0.0.1-SNAPSHOT @ /Users/nnaick001c/Documents/workspace/ExcelMaven/pom.xml.
+2016-01-14 08:59:32,045 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.mavenlearning.com:MavenCucumber:0.0.1-SNAPSHOT @ /Users/nnaick001c/Documents/workspace/MavenCucumberReport/MavenCucumber/pom.xml.
+2016-01-14 08:59:32,399 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: MavenReportProject:MavenReportProject:0.0.1-SNAPSHOT @ /Users/nnaick001c/Documents/workspace/MavenReportProject/pom.xml.
+2016-01-14 08:59:32,488 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: MaveTest:MavenTest:0.0.1-SNAPSHOT @ /Users/nnaick001c/Documents/workspace/MavenTest/pom.xml.
+2016-01-14 08:59:32,498 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: TestMaven:TestMaven:0.0.1-SNAPSHOT @ /Users/nnaick001c/Documents/workspace/TestMaven/pom.xml.
+2016-01-14 08:59:32,553 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Cucumber_Maven_selenium:Cucumber_selenium:0.0.1-SNAPSHOT @ /Users/nnaick001c/Documents/workspace/workspaceP/Cucumber_selenium/pom.xml.
+2016-01-14 08:59:32,578 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Slenium_Project:Selenium_Project:0.0.1-SNAPSHOT @ /Users/nnaick001c/Documents/workspace/workspaceP/Selenium_Project/pom.xml.
+2016-01-14 08:59:32,622 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: XfinitySearch:XfinitySearch:0.0.1-SNAPSHOT @ /Users/nnaick001c/Documents/workspace/workspaceP/XfinitySearch/pom.xml.
+2016-01-14 08:59:32,647 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: XfinityTest:XfinityTest:0.0.1-SNAPSHOT @ /Users/nnaick001c/Documents/workspace/workspaceP/XfinityTest/pom.xml.
+2016-01-14 08:59:32,863 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.apache.tomcat:jdbc-pool:1.2-SNAPSHOT @ /Users/nnaick001c/Documents/workspace/localtomcat/apache-tomcat-7.0.57-src/modules/jdbc-pool/pom.xml.
+2016-01-14 08:59:33,360 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-01-14 08:59:33,361 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-01-14 08:59:33,362 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-01-14 08:59:33,362 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-01-14 08:59:33,398 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-01-14 08:59:33,398 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-01-14 08:59:33,399 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-01-14 08:59:33,399 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-01-14 08:59:33,539 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-01-14 08:59:33,539 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nnaick001c/Documents/workspace/MavenCucumberReport/MavenCucumber/src/main/resources
+2016-01-14 08:59:33,540 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-01-14 08:59:33,540 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nnaick001c/Documents/workspace/MavenCucumberReport/MavenCucumber/src/test/resources
+2016-01-14 08:59:33,708 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-01-14 08:59:33,709 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nnaick001c/Documents/workspace/MavenReportProject/src/main/resources
+2016-01-14 08:59:33,710 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-01-14 08:59:33,711 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nnaick001c/Documents/workspace/MavenReportProject/src/test/resources
+2016-01-14 08:59:33,748 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-14 08:59:33,748 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nnaick001c/Documents/workspace/MavenTest/src/main/resources
+2016-01-14 08:59:33,748 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-14 08:59:33,748 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nnaick001c/Documents/workspace/MavenTest/src/test/resources
+2016-01-14 08:59:33,898 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-01-14 08:59:33,898 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-01-14 08:59:33,900 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-01-14 08:59:33,900 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-01-14 08:59:34,044 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-01-14 08:59:34,044 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nnaick001c/Documents/workspace/TestMaven/src/main/resources
+2016-01-14 08:59:34,045 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-01-14 08:59:34,046 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nnaick001c/Documents/workspace/TestMaven/src/test/resources
+2016-01-14 08:59:34,063 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-01-14 08:59:34,063 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-01-14 08:59:34,064 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-01-14 08:59:34,064 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-01-14 08:59:34,115 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-01-14 08:59:34,115 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-01-14 08:59:34,116 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-01-14 08:59:34,117 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-01-14 08:59:34,213 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact xml-apis:xml-apis:jar:2.0.2 has been relocated to xml-apis:xml-apis:jar:1.0.b2
+2016-01-14 08:59:34,228 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-01-14 08:59:34,228 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nnaick001c/Documents/workspace/cucumber-jvm-template-master/src/main/resources
+2016-01-14 08:59:34,229 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-01-14 08:59:34,229 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
